@@ -1,8 +1,8 @@
 <!-- markdownlint-disable MD033 -->
-<h1 align="center">
   <img alt="logo" src="https://i0.wp.com/d604h6pkko9r0.cloudfront.net/wp-content/uploads/2021/03/29113740/nextjs-cover-jpg-webp.webp?fit=1000%2C582&ssl=1" width="224px"/>
 <br>
 <!-- markdownlint-enable MD033 -->
+<h1 align="center">
 
 Next.js Uygulama Yönlendiricisi Dökümantasyonu (Next.js Documentation for App Router)
 
