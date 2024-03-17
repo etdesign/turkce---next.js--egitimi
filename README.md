@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 -->
 <h1 align="center">
-  <img alt="logo" src="https://cdn.freelogovectors.net/wp-content/uploads/2023/09/next-js-logo-freelogovectors.net_.png" width="224px"/>
+  <img alt="logo" src="https://miro.medium.com/v2/resize:fit:1400/1*2tmzU7bve-VlTkOMWsk_Hw.jpeg" width="224px"/>
 <br>
 <!-- markdownlint-enable MD033 -->
 
