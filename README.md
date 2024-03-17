@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 -->
 <h1 align="center">
-  <img alt="logo" src="[https://miro.medium.com/v2/resize:fit:1400/1*2tmzU7bve-VlTkOMWsk_Hw.jpeg](https://assets.awwwards.com/awards/element/2022/09/6313eaf4b41bd275260216.png)" width="224px"/>
+  <img alt="logo" src="[https://miro.medium.com/v2/resize:fit:1400/1*2tmzU7bve-VlTkOMWsk_Hw.jpeg(https://assets.awwwards.com/awards/element/2022/09/6313eaf4b41bd275260216.png)](https://i0.wp.com/d604h6pkko9r0.cloudfront.net/wp-content/uploads/2021/03/29113740/nextjs-cover-jpg-webp.webp?fit=1000%2C582&ssl=1)" width="224px"/>
 <br>
 <!-- markdownlint-enable MD033 -->
 
