@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 -->
 <h1 align="center">
-  <img alt="logo" src="https://miro.medium.com/v2/resize:fit:1400/1*2tmzU7bve-VlTkOMWsk_Hw.jpeg" width="224px"/>
+  <img alt="logo" src="[https://miro.medium.com/v2/resize:fit:1400/1*2tmzU7bve-VlTkOMWsk_Hw.jpeg](https://assets.awwwards.com/awards/element/2022/09/6313eaf4b41bd275260216.png)" width="224px"/>
 <br>
 <!-- markdownlint-enable MD033 -->
 
